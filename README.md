@@ -4,5 +4,6 @@
 ## Commandes Git essentielles ```bash git clone [url] 
 # télécharger un repo git pull 
 # récupérer les mises à jour git status 
-# voir l'état des fichiers git log --oneline # historique des commits ``` 
+# voir l'état des fichiers git log --oneline 
+# historique des commits ``` 
 ## Progression Formation GitHub — Étape 2/5 ✅
